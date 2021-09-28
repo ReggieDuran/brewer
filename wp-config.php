@@ -29,7 +29,7 @@ define( 'DB_USER', 'sql6440664' );
 define( 'DB_PASSWORD', '82zUfURhxQ' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'sql6.freesqldatabase.com' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
